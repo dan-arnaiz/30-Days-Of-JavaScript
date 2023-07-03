@@ -681,3 +681,4 @@ You are 30 years old.
 🎉 CONGRATULATIONS ! 🎉
 
 [Day 2 >>](./02_Day_Data_types/02_day_data_types.md)
+w
